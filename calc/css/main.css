@@ -1,0 +1,47 @@
+#sel {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0.25em 0.5em;
+    text-decoration: none;
+    color: #00BCD4;
+    background: #ECECEC;
+    transition: .4s;
+  }
+  
+  #sel:hover {
+    background: #00bcd4;
+    color: white;
+  }
+
+#start {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0.25em 0.5em;
+    text-decoration: none;
+    color: #00BCD4;
+    background: #ECECEC;
+    transition: .4s;
+  }
+  
+  #start:hover {
+    background: #00bcd4;
+    color: white;
+  }
+
+  #reset {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0.25em 0.5em;
+    text-decoration: none;
+    color: #00BCD4;
+    background: #ECECEC;
+    transition: .4s;
+  }
+  
+  #reset:hover {
+    background: #00bcd4;
+    color: white;
+  }
